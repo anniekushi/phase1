@@ -1,0 +1,43 @@
+{
+	"profile1":{
+      "image":"images/icon1.jpg",
+      "name":"annie kushi",
+      "desigigination":"student",
+      "phoneno":"9110535620",
+      "email":"anniekushi311@gmail.com"
+	},
+	"career":{
+		"info":"the path where i can show my talent and skills"
+	},
+	"education":
+		[
+	 {
+		"Qualification":"b-tech",
+		"Institute":"madanapalle institute of technology and science",
+		"Percentage":"75%",
+		"Yop":"2021"
+	},
+	{
+	"Qualification":"inter",
+		"Institute":"sri chaitanya junior college",
+		"Percentage":"85%",
+		"Yop":"2017"
+	},
+	{
+		"Qualification":"ssc",
+		"Institute":"keshava reddy school",
+		"Percentage":"7.2",
+		"Yop":"2015"
+	}
+],
+		"skills":[
+			{
+			"Name":"web technologies",
+			"Info":["HTML,CSS,JS"]
+		},
+		{
+			"Name":"database",
+			"Info":["Jdbc","sql","firebase","linux"]
+		}
+]
+	}
